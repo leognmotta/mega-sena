@@ -29,5 +29,6 @@ addNumer.addEventListener("click", function() {
   for (var i = 0; i < luckyGame.length; i++) {
     html += '<div class="lucky-number">' + luckyGame[i] + "</div>";
   }
+  html += '<div class="container good-luck">Boa Sorte!</div>';
   luckyNumbers.innerHTML = html;
 });
