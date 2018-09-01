@@ -1,3 +1,2 @@
 # mega-sena
-
-https://leomotta.com/mega-sena/
+https://geradormegasena.biz/
